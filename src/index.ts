@@ -2,8 +2,8 @@ import { startMatrixApplication, clearMatrix, setCell } from "node-cli-character
 import { ALL_SHAPES } from './shapes';
 import { paintMatrixFromMatrix } from './utils';
 
-const N_ROWS = 5;
-const N_COLUMNS = 5;
+const N_ROWS = 7;
+const N_COLUMNS = 7;
 const INTERVAL_MS = 100;
 
 
